@@ -4,7 +4,7 @@ import api from '../apis/api';
 import VideoList from './Video_Ops/videoList';
 import VideoDetail from './Video_Ops/videoDetail';
 
-const KEY = 'AIzaSyBrgcA8uQggJXuEJyFmI2oWxM58bUafKxs';
+const KEY = '';
 
 class App extends React.Component {
 
